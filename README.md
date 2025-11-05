@@ -14,6 +14,7 @@ It includes 202 rows ( excludes headings) and 4 columns: name, scientific name, 
 This dataset provides valuable information by identifying prominent or under-monitored species, and it is also essential for making strategic decisions about tourist initiatives, creating environmental monitoring technologies, or modifying conservation funding.
 
 **2. Data Cleaning**
+
 Identify Missing value and how to handle these missing value:
 
 <img width="718" height="436" alt="image" src="https://github.com/user-attachments/assets/f96c98b2-4700-4de8-8c95-2bac0d50a3ad" />
