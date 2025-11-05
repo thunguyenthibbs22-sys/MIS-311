@@ -30,9 +30,11 @@ After identifying the missing value, we can see that there is no missing value i
 **3. Descriptive Statistics** 
 
 <img width="328" height="404" alt="image" src="https://github.com/user-attachments/assets/8cb89a2e-df49-4f9e-a166-302df4c0a941" />
+
 Table: Key Insight 1 of Bird in India
 
 <img width="346" height="390" alt="image" src="https://github.com/user-attachments/assets/350e3995-f37b-4a0b-831b-3dbacbdf04f7" />
+
 Table: Key insight 2 of Bird in India
 
 **Insight 1: Imbalance in Monitoring Intensity**
