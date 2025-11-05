@@ -10,6 +10,7 @@ It includes 202 rows ( excludes headings) and 4 columns: name, scientific name, 
 - Scientific name: Scientific name of the bird 
 - Last observation: Date when the bird was last seen
 - Total observations: Total number of times the bird was observed
+  
 This dataset provides valuable information by identifying prominent or under-monitored species, and it is also essential for making strategic decisions about tourist initiatives, creating environmental monitoring technologies, or modifying conservation funding.
 
 **2. Data Cleaning**
