@@ -22,12 +22,18 @@ The result is that there is no missing value in this initial dataset
 
 **Identify any duplicate rows and remove duplicate rows if necessary**
 
+<img width="760" height="321" alt="image" src="https://github.com/user-attachments/assets/345509c4-c2eb-448b-b4a1-fd8ede168f77" />
+
 Data → Data Tool → Remove Duplicate
 After identifying the missing value, we can see that there is no missing value in this dataset so the number of rows has not changed, still there are 203 rows. However, after identifying duplicate rows by using the “Remove Duplicate” tool, the result shows that there are three duplicate values. I delete these three rows, and the row is 199 rows. This elimination ensures that each unique bird species is represented by only one record, preventing incorrectness in the calculations of total observations. This is because  the overall number of species recorded will be incorrectly calculated if these three entries are not eliminated, misleading us about the data's coverage.
 
 **3. Descriptive Statistics** 
 
-<img width="672" height="419" alt="image" src="https://github.com/user-attachments/assets/670c9566-18b3-45fe-aab3-2df4b6e3e14e" />
+<img width="328" height="404" alt="image" src="https://github.com/user-attachments/assets/8cb89a2e-df49-4f9e-a166-302df4c0a941" />
+Table: Key Insight 1 of Bird in India
+
+<img width="346" height="390" alt="image" src="https://github.com/user-attachments/assets/350e3995-f37b-4a0b-831b-3dbacbdf04f7" />
+Table: Key insight 2 of Bird in India
 
 **Insight 1: Imbalance in Monitoring Intensity**
 
