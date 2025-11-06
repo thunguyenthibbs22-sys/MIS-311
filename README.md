@@ -51,8 +51,7 @@ The Total Observations column was used to select and sort the entire information
 
 In order to ensure that they are accurately counted and do not result in errors in the date calculations, rows having a value of "No Observations" in the Last Observation column are first handled independently by sorting the data. The YEAR() function is then used to convert all of the remaining valid date values into a single "Year" column. And then using the COUNTIF function to count the number of bird species in four main years: count the number of bird species in four main categories: 2024, 2023, 2022, and the No Observed category.
 
-This data shows how active the watching community is on a regular basis. The high number of species observed in 2024 and 2023 demonstrates recent active engagement. However, the presence of species that have never been observed or have data from 2022 or earlier raises the risk of data obsolescence. These species create serious temporal data gaps, requiring conservation organizations to prioritize new data collection campaigns to ensure the reliability and timeliness of information.
-
+These data demonstrate recent positive interactions as evidenced by the high number of species observed in 2024 and 2023. However, as these data include species that have never been observed or have data from 2022 or earlier, they are likely to be outdated. To ensure the accuracy and timeliness of information, conservation organizations must prioritize the collection of the most recent data due to the significant temporary data gaps caused by these species.
 
 
 
